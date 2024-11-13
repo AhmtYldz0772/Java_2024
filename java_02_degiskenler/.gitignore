@@ -11,10 +11,6 @@ target/
 *.iws
 *.iml
 *.ipr
-Java_2024.popxml
-/.idea/vcs.xml
-/.idea/modules.xml
-/.idea/misc.xml
 
 ### Eclipse ###
 .apt_generated
@@ -68,4 +64,7 @@ hs_err_pid*
 replay_pid*
 .idea/misc.xml
 .idea/vcs.xml
-
+Java_2024.popxml
+java_02_degiskenler/.idea/vcs.xml
+java_02_degiskenler/.idea/modules.xml
+java_02_degiskenler/.idea/misc.xml
